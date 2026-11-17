@@ -1,6 +1,6 @@
 # GitLab CI/CD Infrastructure — Self-Hosted Stack
 
-A complete, self-hosted GitLab CI/CD platform built from scratch using **Docker Compose** and **Kubernetes (Minikube)**. The project demonstrates a progression from a basic containerised setup to a production-grade Kubernetes deployment, covering networking, security, persistence, and operational tooling.
+A complete, self-hosted GitLab CI/CD platform built from scratch using **Docker Compose** and **Kubernetes (Minikube)**. The project demonstrates a progression from a basic containerised setup to a production-grade Kubernetes deployment, covering networking, security, persistence, and operational tooling. This repository includes both the local Docker Compose deployment and the Kubernetes deployment assets.
 
 ## What This Project Does
 
